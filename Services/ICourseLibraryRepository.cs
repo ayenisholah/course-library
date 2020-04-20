@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using CourseLibrary.API.Entities;
 
 namespace CourseLibrary.API.Services
 {

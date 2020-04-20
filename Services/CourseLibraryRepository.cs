@@ -1,4 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using CourseLibrary.API.DbContexts;
+using CourseLibrary.API.Entities;
+
 namespace CourseLibrary.API.Services
 {
     public class CourseLibraryRepository : ICourseLibraryRepository, IDisposable
